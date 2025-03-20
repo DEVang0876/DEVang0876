@@ -35,11 +35,11 @@
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DEVang0876&theme=vue&bg_color=00000000&hide_border=true)](https://sites.google.com/view/iitiandevang)
 
-<div align=center>
+<!-- <div align=center>
 	<a href="https://github.com/DEVng0876" target="_blank">
   		<img src="https://github-profile-trophy.vercel.app/?username=DEVng0876&no-bg=true&theme=radical&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
 	</a>
-</div>
+</div> -->
 
 ---
 
