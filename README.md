@@ -58,7 +58,7 @@
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
 	<a href="https://www.hackerrank.com/profile/devang_23AIML014" target="_blank">
-    <img src="/assests/hr.png" alt="gfg-profile" style="height: 47px; width: 97px;"></a>
+    <img src="/assests/hr.png" alt="hr-profile" style="height: 47px; width: 97px;"></a>
 
 </div>
 </br>
