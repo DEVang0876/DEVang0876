@@ -53,12 +53,12 @@
 
 <h1 align="center">My Coding Profiles</h1>
 <div align="center">
-	<a href="https://leetcode.com/u/DEVng0876/" target="_blank">
+	<a href="https://leetcode.com/u/devang_23AIML014/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" style="height: 43px" alt="leetcode-profile"/>	</a>
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
-	<a href="https://www.geeksforgeeks.org/user/23dce020/" target="_blank">
-    <img src="/assests/gfg.png" alt="gfg-profile" style="height: 47px; width: 97px;"></a>
+	<a href="https://www.hackerrank.com/profile/devang_23AIML014" target="_blank">
+    <img src="/assests/hr.png" alt="gfg-profile" style="height: 47px; width: 97px;"></a>
 
 </div>
 </br>
