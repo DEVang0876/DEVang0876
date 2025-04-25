@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+KAUSTAV+DAS;Passionate+about+technologies+and+its+limitless+possibilities!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/kaustav3071)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Devang;Passionate+about+technologies+and+its+limitless+possibilities!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/kaustav3071)
 
 
 
