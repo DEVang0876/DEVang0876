@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **devang454147@gmail.com**
 
-- 🔥🔥 Have a look at [**My Site**](https://sites.google.com/view/iitiandevang) and you can contact me from there! 🔥🔥
+- 🔥🔥 Have a look at [**My Site**](https://deviiinee-site.vercel.app) and you can contact me from there! 🔥🔥
 
 ---
 
