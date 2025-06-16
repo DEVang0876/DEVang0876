@@ -7,7 +7,7 @@
 ## 😄 About Me
 - 🌱 I’m currently learning **AI, Machine learning and Data Science**.
 
-- ❤️ I'm Currently Persuing my **B Tech** in **Artificial Intelligence and Machine Learning**.
+- 🚀 I'm Currently Persuing my **B Tech** in **Artificial Intelligence and Machine Learning**.
 
 - 📫 How to reach me **devang454147@gmail.com**
 
